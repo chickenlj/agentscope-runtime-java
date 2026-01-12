@@ -69,7 +69,7 @@
     </scm>
 
     <properties>
-        <revision>1.0.0</revision>
+        <revision>1.0.1</revision>
 
         <a2a-sdk.version>0.3.2.Final</a2a-sdk.version>
         <spring-boot.version>3.4.5</spring-boot.version>
@@ -274,7 +274,7 @@
             <dependency>
                 <groupId>io.agentscope</groupId>
                 <artifactId>agentscope-core</artifactId>
-                <version>1.0.0</version>
+                <version>1.0.3</version>
                 <exclusions>
                     <exclusion>
                         <groupId>org.slf4j</groupId>
